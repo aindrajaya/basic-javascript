@@ -5,5 +5,5 @@ Create index file, and Please format a date like below
 - 7/2/2021, 2:05:07 PM
 - 7/2/2021
 - Fri, 02 Jul 2021 13:06:02 GMT
-- Fri, 02 Jul 2021 13:06:28 GMT
+- Fri, 02 Jul 2021 13:06:28 UTC
 - 2021-07-02T13:06:53.422Z
